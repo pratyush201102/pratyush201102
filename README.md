@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pratyush201102
-- 👀 I’m interested in computer programming
-
+- 👀 I’m interested in Software Engineering
 
 <!---
 pratyush201102/pratyush201102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
